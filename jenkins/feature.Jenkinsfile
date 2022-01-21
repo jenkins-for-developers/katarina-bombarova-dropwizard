@@ -1,7 +1,7 @@
-// jenkins/main.Jenkinsfile
+// jenkins/feature.Jenkinsfile
 stage ('Branch') {
       steps {
-        echo "Toto je main branch"
+        echo "Toto je feature branch"
       }
     }
 
