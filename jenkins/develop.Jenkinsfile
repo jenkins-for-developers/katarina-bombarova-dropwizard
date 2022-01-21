@@ -1,4 +1,3 @@
-// soubor:  jenkins/branch-switcher.Jenkinsfile
 
 // jenkins/develop.Jenkinsfile
 stage ('Branch') {
