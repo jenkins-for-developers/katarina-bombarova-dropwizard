@@ -1,0 +1,10 @@
+@Library('shared-library') _
+
+pipeline {
+    stages {
+        stage("build") {
+            steps {
+                helloWorld('Hello World')
+            }
+        }
+    }
