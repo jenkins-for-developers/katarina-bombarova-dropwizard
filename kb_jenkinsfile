@@ -1,4 +1,4 @@
-
+// soubor:  katarina-bombarova-dropwizard/kb_jenkinsfile
 
 pipeline {
   agent any
